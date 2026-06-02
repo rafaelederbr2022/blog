@@ -17,7 +17,7 @@ This module covers the foundational concepts of LangChain, providing the essenti
 ## Prerequisites
 
 - Python 3.11+ installed
-- Virtual environment activated (`C:\awsenv\venv\Scripts\activate`)
+- Virtual environment activated (`<YOUR_VENV_PATH>\Scripts\activate`)
 - Dependencies installed (`pip install -r requirements.txt`)
 - OpenAI API key configured in `.env`
 
