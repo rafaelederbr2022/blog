@@ -1,6 +1,6 @@
 # LangChain & LangGraph Study Project
 
-A comprehensive, hands-on study project covering the LangChain ecosystem — including LangChain, LangGraph, LangFlow, LangSmith, MCP, ADK, DeepEval, and Context Engineering. The project is organized into 13 progressive modules with 94 practical exercises, culminating in a complete corporate agent as the final project.
+A comprehensive, hands-on study project covering the LangChain ecosystem — including LangChain, LangGraph, LangFlow, LangSmith, MCP, ADK, DeepEval, and Context Engineering. The project is organized into 13 progressive modules with 102 practical exercises, culminating in a complete corporate agent as the final project.
 
 ## Prerequisites
 
