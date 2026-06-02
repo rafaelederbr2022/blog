@@ -13,7 +13,7 @@ A comprehensive, hands-on study project covering the LangChain ecosystem — inc
 1. **Activate the virtual environment:**
 
    ```bash
-   C:\awsenv\venv\Scripts\activate
+   C:\<PATH_OF_YOUUR_VENV>\Scripts\activate
    ```
 
 2. **Install dependencies:**
