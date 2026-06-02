@@ -185,7 +185,7 @@ All exercises import the shared `config.py` from the project root, which handles
 | LLM Framework | LangChain, LangGraph, LangFlow, LangSmith |
 | LLM Provider | OpenAI (GPT-4o-mini) |
 | Embeddings | OpenAI Embeddings (text-embedding-3-small) |
-| Vector Stores | ChromaDB, FAISS |
+| Vector Stores | ChromaDB |
 | MCP | Model Context Protocol SDK |
 | ADK | Google Agent Development Kit |
 | Evaluation | DeepEval |
@@ -196,4 +196,3 @@ All exercises import the shared `config.py` from the project root, which handles
 | Testing | pytest, hypothesis, pytest-cov, pytest-asyncio |
 | Environment | python-dotenv |
 | Language | Python 3.11+ |
-
