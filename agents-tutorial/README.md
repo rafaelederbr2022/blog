@@ -81,12 +81,12 @@ LLM_PROVIDER=bedrock
 ## Project Structure
 
 ```
-langchain-langflow-study/
+agents-tutorial/
 ├── config.py                          # Shared configuration module
 ├── requirements.txt                   # Pinned dependencies
 ├── .env.example                       # Environment variables template
 ├── docs/                              # Documentation
-├── modulo_01_fundamentos/             # Module 01 - LangChain Fundamentals
+├── modulo_01_fundamentals/            # Module 01 - LangChain Fundamentals
 ├── modulo_02_rag/                     # Module 02 - RAG
 ├── modulo_03_langgraph/               # Module 03 - LangGraph
 ├── modulo_04_agentes/                 # Module 04 - Agents
