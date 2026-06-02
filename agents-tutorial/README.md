@@ -172,7 +172,7 @@ python exercicio_XX_name.py
 For example:
 
 ```bash
-cd modulo_01_fundamentos
+cd modulo_01_fundamentals
 python exercicio_01_prompt_templates.py
 ```
 
