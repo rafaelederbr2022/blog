@@ -1,0 +1,11 @@
+Cloud Computing: Infrastructure and Services
+
+Cloud computing is the delivery of computing services over the internet, including servers, storage, databases, networking, software, analytics, and intelligence. Instead of owning and maintaining physical data centers and servers, organizations can access technology services on an as-needed basis from cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+There are three primary service models in cloud computing. Infrastructure as a Service (IaaS) provides virtualized computing resources over the internet, giving users control over operating systems and applications. Platform as a Service (PaaS) offers a development and deployment environment in the cloud, abstracting away infrastructure management. Software as a Service (SaaS) delivers complete applications over the internet, accessible through web browsers without local installation.
+
+Cloud deployment models include public cloud, private cloud, hybrid cloud, and multi-cloud strategies. Public clouds are owned by third-party providers and shared among multiple organizations. Private clouds are dedicated to a single organization, offering greater control and security. Hybrid cloud combines both approaches, allowing data and applications to move between environments. Multi-cloud strategies use services from multiple providers to avoid vendor lock-in.
+
+Serverless computing represents an evolution in cloud architecture where the cloud provider manages the infrastructure entirely. Developers write functions that execute in response to events, paying only for the compute time consumed. Services like AWS Lambda, Azure Functions, and Google Cloud Functions enable this model, allowing teams to focus purely on business logic without worrying about server provisioning or scaling.
+
+Security in cloud computing follows a shared responsibility model. The cloud provider secures the underlying infrastructure, while customers are responsible for securing their data, applications, and access management. Best practices include encryption at rest and in transit, identity and access management (IAM), network segmentation, and regular security audits. Compliance frameworks like SOC 2, ISO 27001, and GDPR provide guidelines for maintaining security standards in cloud environments.
